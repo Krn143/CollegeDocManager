@@ -53,10 +53,5 @@ Users can log in, upload documents, and download documents through a clean dashb
 
 ---
 
-## ✨ Screenshots (Optional)
-_Add screenshots of Login, Upload, View pages here if you want._
-
----
-
 ## 👨‍💻 Developed By
-- Your Name Here
+- Karan Sanjay Rathod
